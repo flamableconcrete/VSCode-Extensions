@@ -20,6 +20,7 @@ Awesome for different reasons.
 * [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) - Interact with AWS directly from VS Code.
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Comments in code are highlighted better based on type (e.g. TODO).
 * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Make pretty screenshots of your code easily.
+* [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spell check for your code.
 * [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Use containers for your development environment.
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Manage docker containers in VS Code.
 * [Document This](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis) - Auto generate TypeScript/JavaScript comments.
