@@ -18,12 +18,14 @@ Awesome for different reasons.
 
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tags.
 * [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) - Interact with AWS directly from VS Code.
+* [Batch Rename](https://marketplace.visualstudio.com/items?itemName=JannisX11.batch-rename-extension) - Rename multiple files at once
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Comments in code are highlighted better based on type (e.g. TODO).
 * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Make pretty screenshots of your code easily.
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spell check for your code.
 * [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Use containers for your development environment.
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Manage docker containers in VS Code.
 * [Document This](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis) - Auto generate TypeScript/JavaScript comments.
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Highlight lines containing warnings/errors with message next to them
 * [Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) - Remind me how bad my Python code looks in real time.
 * [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) - Automatically sort your Python import statements to keep them organized.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Start a quick development web server in the directory of your project.
@@ -32,6 +34,7 @@ Awesome for different reasons.
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Pretty much required to run Python code.
 * [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) - See all your remote machines in one place.
 * [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - SSH into a remote machine to develop there instead.
+* [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) - 240+ commands to edit/format/filter text
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlights TODOs in your comments to make them stand out.
 * [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlights and helps you delete trailing spaces.
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Better icons for files by type.
